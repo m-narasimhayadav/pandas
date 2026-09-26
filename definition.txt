@@ -1,2 +1,2 @@
 Def:Pandas is python powerful open source library 
-used for datamanipulation and data analysis.
+used for datamanipulation and data analysis.It is build on numpy
